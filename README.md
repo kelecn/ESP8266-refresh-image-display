@@ -75,7 +75,7 @@
 
 软件实现通过网页将图片上传至NodeMCU（ESP8266），并将图片更新至TFT-LCD显示屏。主要的程序流程图如下：
 
-<img src="https://7.dusays.com/2021/05/01/73e40087635a5.png" style="zoom: 33%;" width="auto" height="auto" align="middle" />
+<img src="https://7.dusays.com/2021/05/01/73e40087635a5.png" style="zoom: 25%;" width="auto" height="auto" align="middle" />
 
 ### 三、效果演示
 
