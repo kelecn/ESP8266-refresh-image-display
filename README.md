@@ -18,7 +18,7 @@
 
 - NodeMCU（ESP8266）IO口介绍：
 
-![](https://7.dusays.com/2021/05/01/2ebb6c7ff7a03.png)
+![](https://7.dusays.com/2021/05/03/6fc70dbf34c98.png)
 
 - 1.44寸TFT-LCD液晶屏IO口介绍：
 
