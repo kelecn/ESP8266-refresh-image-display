@@ -7,7 +7,7 @@
 <hr>
 
 
-硬件主要用到NodeMCU（ESP8266）和1.44寸TFT彩色液晶屏，[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.1.4909234fdyizrn&id=531755241333&ns=1&abbucket=0#detail)都有得卖，也不贵。
+硬件主要用到NodeMCU（ESP8266）和1.44寸TFT-LCD彩色液晶屏，[淘宝](https://item.taobao.com/item.htm?spm=a230r.1.14.1.4909234fdyizrn&id=531755241333&ns=1&abbucket=0#detail)都有得卖，也不贵。
 
 
 |   硬件   |                型号                |      价格      |
